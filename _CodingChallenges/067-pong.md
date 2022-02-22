@@ -95,5 +95,9 @@ contributions:
     author: "Simon Tiger(and small portion by abhay)"
     url: "https://editor.p5js.org/aabhay.kashyap/full/TpkMpovUj"
     source: "https://editor.p5js.org/aabhay.kashyap/sketches/TpkMpovUj"
+  - title: "Pong, single player"
+    author: "Vincent Kok"
+    url: "https://editor.p5js.org/vinc.kokkie/full/jBBsyA86Y"
+    source: "https://editor.p5js.org/vinc.kokkie/sketches/jBBsyA86Y"
 ---
 In this challenge, I attempt (emphasis on the word "attempt") to program the classic video game Pong in Processing (Java).
